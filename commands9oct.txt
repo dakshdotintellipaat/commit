@@ -1,0 +1,65 @@
+ 1  ls
+    2  cd Desktop/
+    3  ls
+    4  ls
+    5  cd D
+    6  cd Desktop/
+    7  ls
+    8  cd EC2+EBS+EFS
+    9  cd EC2+EBS+EFS
+   10  cd EC2+EBS+EFS
+   11  cd Assignments - Git
+   12  mkdir abc
+   13  ls
+   14  cd abc
+   15  ls
+   16  cd ..
+   17  cd 'EC2+EBS+EFS'
+   18  ls
+   19  cd
+   20  git init
+   21  git status
+   22  git add .
+   23  git status
+   24  git commit -m "first commit"
+   25  git config --global user.name dakshdotintellipaat
+   26  git config --global user.email "nickeyp6791@gmail.com"
+   27  git config --global user.email nickeyp6791@gmail.com
+   28  git config --global user.name "dakshdotintellipaat"
+   29  git config --global user.email nickeyp6791@gmail.com
+   30  git config --global user.email "nickeyp6791@gmail.com"
+   31  git config --global user.email  nickeyp6791@gmail.com"
+   32  git config --global user.email  nickeyp6791@gmail.com"
+   33  git config --global user.email "nickeyp6791@gmail.com"
+   34  history
+   35   '
+   36  git remote add origin https://github.com/dakshdotintellipaat/demo-oct9.git
+   37  git push origin master
+   38  ls
+   39  git init
+   40  git status
+   41  git add .
+   42  git status
+   43  git commit -m "all"
+   44  git remote add origin "https://github.com/dakshdotintellipaat/dk.git"
+   45  git push origin master
+   46  git init
+   47  git status
+   48  git add .
+   49  git status
+   50  git commit -m "daksh's commit"
+   51  git remote add origin https://github.com/dakshdotintellipaat/new_do.git
+   52  git push origin master
+   53  ls
+   54  cd Desktop/
+   55  ls
+   56  cd tushar/
+   57  git init
+   58  ls
+   59  git status
+   60  git add .
+   61  git status
+   62  git commit -m "message 1"
+   63  git remote add origin https://github.com/dakshdotintellipaat/daksh.git
+   64  git push origin master
+   65  history
